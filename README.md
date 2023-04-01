@@ -6,4 +6,5 @@ Solar energy is abundant in our environment, and making use of it is a must as i
 
 ## Electronic Schamtic diagram of the system
 
-![Alt text for your image](https://imgur.com/a/Qev2EwC)
+![Schematic diagram](https://user-images.githubusercontent.com/96639538/229315419-89a1bec9-e328-4acd-96cf-6917e8a6276c.png)
+

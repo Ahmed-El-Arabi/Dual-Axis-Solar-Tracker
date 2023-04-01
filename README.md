@@ -1,6 +1,5 @@
-# Dual-Axis Solar Tracking System
+#Implementation of a Dual-Axis Tracking
+System for Parabolic Dish Collectors
 ## System Description
 
-A Dual-Axis Solar tracking system made specially for Concentrating collectors, specifically for parabolic dish collectors. The algorithm outputs the sun location in terms of Solar Azimuth and Zenith angles given the time and location.
-
-The project is still a work in progress, what was developed so far is the code in C for the algorithm.
+Solar energy is abundant in our environment, and making use of it is a must as it is clean and renewable, and solar generation has seen growth over the last decades. Thus, this experimental study examines the implementation challenges faced in the development process of a dual-axis solar tracker for a parabolic dish collector (PDC) in the Egyptian market. Firstly,this system uses chronological solar tracking technology which is time basedand automatic, and the movement degrees of this system is 2D since based on various previous research, is more energy efficient. Secondly, This system uses a simple economical electro-mechanical system that consists of motors, drivers, and a microcontroller to execute the program performing the solar tracking. Finally, the hardware was machined and assembled in a factory using lathe machines and other machining tools to make sure the system is as precise as needed. The system was tested and successfully achieved accurate solar tracking of the sun throughout the day. Thus, we conclude that a relatively large-scale solar tracker for PDCs is possible to create with a manageable budget.

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\ahmed\Source\Repos\Solar Tracking\Solar Tracking\main.c(11,9): warning C4101: 'fractPart': unreferenced local variable
+C:\Users\ahmed\Source\Repos\Solar Tracking\Solar Tracking\main.c(90,10): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\Source\Repos\Solar Tracking\Solar Tracking\main.c(151,9): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmed\Source\Repos\Solar Tracking\Solar Tracking\main.c(55,6): warning C4101: 'month': unreferenced local variable
+  Solar Tracking.vcxproj -> C:\Users\ahmed\Source\Repos\Solar Tracking\x64\Debug\Solar Tracking.exe

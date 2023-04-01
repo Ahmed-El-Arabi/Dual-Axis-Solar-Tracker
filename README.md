@@ -30,9 +30,8 @@ Details about the setup and implementation are included in the thesis
 
 ### Timelape of the Solar Tracker operating
 
-<video width="320" height="240" controls>
-  <source src="https://imgur.com/a/eIkEbnb" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://user-images.githubusercontent.com/96639538/229315708-63396b4b-6ceb-43a6-be97-211bc788cc9b.mp4
+
 
 
